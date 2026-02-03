@@ -334,4 +334,4 @@ O refinamento do PRD no copilot funcionou muito bem inclusive apresentando suges
 O Copilot não publica a aplicação como o lovable, no modo dark as fonte não ficou no contraste correto.
 
 - O que aprendeu sobre conversar com IAs?
-Fiquei realmente empolgado com as possibilidades de criar aplicações com vibe coding.
+Fiquei realmente empolgado com as possibilidades de criar aplicações com vibe coding. Quanto mais detalhes eu informar mais preciso será o código da aplicação.
